@@ -93,4 +93,4 @@ For any questions, feedback, or contributions, please reach out to bocrar@gmail.
 
 - **TensorFlow** and **Keras** for providing the deep learning frameworks.
 - The contributors of the datasets used for training and evaluation https://www.kaggle.com/datasets/ramjasmaurya/poem-classification-nlp/data.
-- The open-source community for valuable resources and support in developing and refining this project.
+
